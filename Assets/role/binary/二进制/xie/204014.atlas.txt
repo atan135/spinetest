@@ -1,0 +1,195 @@
+
+204014.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingzhengxiejiang-daoguang_00000
+  rotate: false
+  xy: 171, 50
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang-daoguang_00001
+  rotate: false
+  xy: 315, 50
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang-daoguang_00002
+  rotate: false
+  xy: 459, 50
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang-daoguang_00003
+  rotate: false
+  xy: 603, 50
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_diying_01
+  rotate: false
+  xy: 2, 47
+  size: 167, 79
+  orig: 167, 79
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_pidaitou_01
+  rotate: false
+  xy: 2, 10
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_qunbai_01
+  rotate: false
+  xy: 350, 7
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_shenti_01
+  rotate: true
+  xy: 747, 2
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_01
+  rotate: true
+  xy: 577, 22
+  size: 12, 53
+  orig: 12, 53
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_05
+  rotate: true
+  xy: 577, 22
+  size: 12, 53
+  orig: 12, 53
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_02
+  rotate: true
+  xy: 577, 36
+  size: 12, 54
+  orig: 12, 54
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_06
+  rotate: true
+  xy: 577, 36
+  size: 12, 54
+  orig: 12, 54
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_03
+  rotate: false
+  xy: 903, 76
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_04
+  rotate: true
+  xy: 903, 11
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_07
+  rotate: false
+  xy: 68, 6
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_wuqi_08
+  rotate: false
+  xy: 123, 10
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_yan_01
+  rotate: false
+  xy: 498, 8
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_yan_02
+  rotate: false
+  xy: 525, 8
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_yao_01
+  rotate: true
+  xy: 845, 34
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_youpidai_01
+  rotate: false
+  xy: 392, 10
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_youshou_01
+  rotate: true
+  xy: 178, 3
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_youshou_02
+  rotate: true
+  xy: 610, 11
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_youtui_01
+  rotate: false
+  xy: 552, 12
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_zuopidai_01
+  rotate: false
+  xy: 431, 10
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_zuoshou_01
+  rotate: true
+  xy: 264, 4
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_zuoshou_02
+  rotate: true
+  xy: 577, 11
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+qingzhengxiejiang_zuotui_01
+  rotate: false
+  xy: 469, 9
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1

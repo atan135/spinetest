@@ -1,0 +1,390 @@
+
+meinv.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm2_L
+  rotate: true
+  xy: 188, 7
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Arm2_L1
+  rotate: true
+  xy: 280, 7
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+images/Arm2_L
+  rotate: true
+  xy: 280, 7
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+Cloak01
+  rotate: true
+  xy: 188, 42
+  size: 250, 411
+  orig: 250, 411
+  offset: 0, 0
+  index: -1
+Cloak02
+  rotate: true
+  xy: 2, 3
+  size: 289, 91
+  orig: 289, 91
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 294
+  size: 443, 726
+  orig: 443, 726
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 892, 299
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+face02
+  rotate: true
+  xy: 372, 11
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+face03
+  rotate: false
+  xy: 509, 3
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+helmet-j
+  rotate: true
+  xy: 892, 556
+  size: 158, 128
+  orig: 158, 128
+  offset: 0, 0
+  index: -1
+images/Cloak01
+  rotate: true
+  xy: 601, 42
+  size: 250, 411
+  orig: 250, 411
+  offset: 0, 0
+  index: -1
+images/Cloak02
+  rotate: true
+  xy: 95, 3
+  size: 289, 91
+  orig: 289, 91
+  offset: 0, 0
+  index: -1
+images/body
+  rotate: false
+  xy: 447, 294
+  size: 443, 726
+  orig: 443, 726
+  offset: 0, 0
+  index: -1
+images/face
+  rotate: false
+  xy: 958, 299
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+images/face02
+  rotate: true
+  xy: 434, 12
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+images/face03
+  rotate: false
+  xy: 495, 3
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+images/weapon_03
+  rotate: false
+  xy: 559, 20
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+images/weapon_05
+  rotate: false
+  xy: 892, 869
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+images1/helmet-j
+  rotate: true
+  xy: 892, 396
+  size: 158, 128
+  orig: 158, 128
+  offset: 0, 0
+  index: -1
+images1/weapon_03j
+  rotate: false
+  xy: 495, 18
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+weapon_03
+  rotate: false
+  xy: 621, 20
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+weapon_05
+  rotate: false
+  xy: 892, 716
+  size: 130, 151
+  orig: 130, 151
+  offset: 0, 0
+  index: -1
+
+meinv2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm1_L
+  rotate: false
+  xy: 228, 240
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+Arm1_R
+  rotate: false
+  xy: 228, 137
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+Arm2_R
+  rotate: false
+  xy: 436, 638
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: false
+  xy: 228, 356
+  size: 49, 188
+  orig: 49, 188
+  offset: 0, 0
+  index: -1
+hair02
+  rotate: false
+  xy: 228, 782
+  size: 75, 234
+  orig: 75, 234
+  offset: 0, 0
+  index: -1
+hair03
+  rotate: false
+  xy: 2, 591
+  size: 224, 425
+  orig: 224, 425
+  offset: 0, 0
+  index: -1
+hair05
+  rotate: false
+  xy: 162, 20
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+hair06
+  rotate: false
+  xy: 305, 572
+  size: 63, 150
+  orig: 63, 150
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 977, 960
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+images/hand_L
+  rotate: false
+  xy: 977, 960
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 668, 925
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+images/hand_R
+  rotate: false
+  xy: 668, 925
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 2, 23
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+images/Arm1_L
+  rotate: true
+  xy: 655, 971
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+images/Arm1_R
+  rotate: false
+  xy: 228, 34
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+images/Arm2_R
+  rotate: false
+  xy: 436, 570
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+images/hair01
+  rotate: true
+  xy: 465, 967
+  size: 49, 188
+  orig: 49, 188
+  offset: 0, 0
+  index: -1
+images/hair02
+  rotate: false
+  xy: 228, 546
+  size: 75, 234
+  orig: 75, 234
+  offset: 0, 0
+  index: -1
+images/hair03
+  rotate: false
+  xy: 2, 164
+  size: 224, 425
+  orig: 224, 425
+  offset: 0, 0
+  index: -1
+images/hair05
+  rotate: false
+  xy: 370, 577
+  size: 64, 145
+  orig: 64, 145
+  offset: 0, 0
+  index: -1
+images/hair06
+  rotate: true
+  xy: 465, 901
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+images/helmet
+  rotate: false
+  xy: 305, 877
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+images/weapon_01
+  rotate: true
+  xy: 771, 932
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+images/weapon_02
+  rotate: false
+  xy: 439, 706
+  size: 79, 66
+  orig: 79, 66
+  offset: 0, 0
+  index: -1
+images/weapon_04
+  rotate: true
+  xy: 520, 705
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+images1/weapon_01j
+  rotate: true
+  xy: 874, 932
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+images1/weapon_02j
+  rotate: false
+  xy: 525, 758
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+images1/weapon_04j
+  rotate: false
+  xy: 615, 909
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+weapon_04
+  rotate: false
+  xy: 615, 909
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+images1/weapon_05j
+  rotate: false
+  xy: 305, 724
+  size: 132, 151
+  orig: 132, 151
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 439, 774
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+weapon_02
+  rotate: false
+  xy: 525, 826
+  size: 83, 73
+  orig: 83, 73
+  offset: 0, 0
+  index: -1
