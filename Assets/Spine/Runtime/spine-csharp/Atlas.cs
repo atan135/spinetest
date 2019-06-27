@@ -107,13 +107,32 @@ namespace Spine {
 			this.regions = regions;
 			this.textureLoader = null;
 		}
-
+        /// <summary>
+        /// 加载atlas文件，生成atlas结构
+        /// </summary>
+        /// <param name="reader"></param>
+        /// <param name="imagesDir"></param>
+        /// <param name="textureLoader"></param>
 		private void Load (TextReader reader, string imagesDir, TextureLoader textureLoader) {
 			if (textureLoader == null) throw new ArgumentNullException("textureLoader", "textureLoader cannot be null.");
 			this.textureLoader = textureLoader;
 
 			string[] tuple = new string[4];
 			AtlasPage page = null;
+            /* 样例格式，首先读取文件头，包括名称，size，format，filter和repeat模式，然后读取每个region内容
+             * meinv.png
+               size: 1024,1024
+               format: RGBA8888
+               filter: Linear,Linear
+               repeat: none
+               Arm2_L
+                rotate: true
+                xy: 188, 7
+                size: 33, 90
+                orig: 33, 90
+                offset: 0, 0
+                index: -1
+            */
 			while (true) {
 				string line = reader.ReadLine();
 				if (line == null) break;
@@ -290,6 +309,7 @@ namespace Spine {
 		public object rendererObject;
 		public int width, height;
 
+        // 浅拷贝，对对象类型只复制reference
 		public AtlasPage Clone () {
 			return MemberwiseClone() as AtlasPage;
 		}
